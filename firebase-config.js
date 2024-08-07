@@ -3,17 +3,17 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
 
-  apiKey: "AIzaSyBuxqeuLEnWBNjhaV3vGqnIflDO8W1NFSU",
+  apiKey: "",
 
-  authDomain: "astrolabs-1a622.firebaseapp.com",
+  authDomain: "",
 
-  projectId: "astrolabs-1a622",
+  projectId: "",
 
-  storageBucket: "astrolabs-1a622.appspot.com",
+  storageBucket: "",
 
-  messagingSenderId: "42001484814",
+  messagingSenderId: "",
 
-  appId: "1:42001484814:web:0f118be52a6f6f9dd7005f"
+  appId: ""
 
 };
 
