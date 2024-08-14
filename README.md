@@ -52,38 +52,13 @@ The mobile therapy application was developed to meet the specific needs of the c
 
 ## 📸 Screenshots
 
-Here are some screenshots of the application:
-
-### Home Page
-![Home Page](./home.jpg)
-
-### Service Request Form
-![Service Request Form](./request.jpg)
-
-### Messaging
-![Messaging](./chat.jpg)
-
-### Chat Conversation
-![Chat Conversation](./chat cnvr.jpg)
-
-### User Profile (English)
-![User Profile (English)](./profile en.jpg)
-
-### User Profile (Arabic)
-![User Profile (Arabic)](./profile ar.jpg)
-
-### Analysis
-![Analysis](./analysis.jpg)
-
-### Zoom
-![Zoom](./zoom.jpg)
 
 ## 👥 Team
 
 This project was developed by the team of developers Aurapholio:
 
-- [Person 1]((https://github.com/Achref23illi)) - Frontend Developer
-- [Person 2](https://github.com/nourhanebndj) - Backend Developer
-- [Person 3](https://github.com/person3) - Backend Developer
+- [Person 1] (https://github.com/Achref23illi)- Frontend Developer
+- [Person 2] (https://github.com/nourhanebndj) - Backend Developer
+- [Person 3] (https://github.com/christianalares) - Backend Developer
 
 Developed using Firebase and React Native by the team of developers Aurapholio.
