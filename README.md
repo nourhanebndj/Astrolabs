@@ -57,7 +57,7 @@ The mobile therapy application was developed to meet the specific needs of the c
 
 This project was developed by the team of developers Aurapholio:
 
-- [Person 1] (https://github.com/Achref23illi)- Frontend Developer
+- [Person 1] (https://github.com/Achref23illi) - Frontend Developer
 - [Person 2] (https://github.com/nourhanebndj) - Backend Developer
 - [Person 3] (https://github.com/christianalares) - Backend Developer
 
