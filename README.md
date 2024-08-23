@@ -49,10 +49,6 @@ The mobile therapy application was developed to meet the specific needs of the c
     </ul>
   </li>
 </ul>
-
-## 📸 Screenshots
-
-
 ## 👥 Team
 
 This project was developed by the team of developers Aurapholio:
